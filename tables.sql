@@ -1,4 +1,4 @@
--- Creatipn des tables (création du schémade base de données)
+-- Creatipn des tables (création du schéma de base de données)
 
 -- Table Employe 
 Create Table Employe(
