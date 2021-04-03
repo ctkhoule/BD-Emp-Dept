@@ -4,8 +4,11 @@ Mise en place d'une base de données de gestion des employés, départements, pr
 ## Soit la base de données BD-Emp-Dept dont le schéma relationnel est donné ci-dessous :
 
 Employe (__Numemp__, Nomemp, #NumD)
+
 Departement (___NumD__, Nomd, #NumChef)
+
 Commande (__NumC__, #NumP,#NumD, Montant)
+
 Produit (__NumP__, NomP, TypeP)
 
 ---
