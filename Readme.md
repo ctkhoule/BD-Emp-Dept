@@ -5,7 +5,7 @@ Mise en place d'une base de données de gestion des employés, départements, pr
 
 Employe (__Numemp__, Nomemp, #NumD)
 
-Departement (___NumD__, Nomd, #NumChef)
+Departement (__NumD__, Nomd, #NumChef)
 
 Commande (__NumC__, #NumP,#NumD, Montant)
 
